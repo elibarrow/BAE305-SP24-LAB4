@@ -83,7 +83,7 @@ $R_i$ = 67.9 k&Omega;
 Below is how our group constructed Circuit 2 during the lab:
 
  <p align="center">
-  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Example%20of%20Circuit%202.jpg width=100%>
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Example%20of%20Circuit%202.jpg width=75%>
 </p>
 
 
