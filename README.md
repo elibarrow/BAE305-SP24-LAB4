@@ -13,6 +13,24 @@ Feb. 8, 2024
 
 ## Lab Assignment Specific Items ##
 
+For Lab 4, the following materials are required:
+
+• 2 Digital Multi-meter (DMM): Fluke 87
+
+• 2 DC Power Supply: Global Specialties 1403
+
+•	9 Resistors: 1 kΩ, 4.7 kΩ, 8.2 kΩ, two 68 kΩ, 150 kΩ, 270 kΩ, 330 kΩ, 1.5 MΩ
+
+• 2	Capacitors: 1nF and 100 nF
+
+• A Function Generator: Global Specialties 2001A
+
+•	An LM741 Op Amp
+
+•	A 1kΩ trimmer potentiometer
+
+No code is required to complete Lab 4
+
 
 
 ## Part 1 - Limits of Op Amps##
