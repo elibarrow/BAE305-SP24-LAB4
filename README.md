@@ -129,9 +129,9 @@ Gain = -10V
 
 **Response:** Once the maximum output voltage is reached in the op-amp circuit, the op-amp reaches saturation and begins to output its maximum voltage instead of amplifying input voltage to output voltage exponentially.
 
-4. Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
-negative voltage performance?  
-**Response:**   %%%%%%% NEEDS TO BE FINSISHED STILL %%%%%%%%%%%%%%%
+4. Are the LM741 op-amps symmetric i.e. does the positive voltage performance equal the negative voltage performance?  
+
+**Response:** The LM741 op-amps are symmetric and the positive voltage performance does equal the negative voltage performance for the first circuit until below -12V or above 12V which causes the $V_i$ begins to not equal $V_o$.
 
 ## Part 2 - Op Amps and frequency response ##
 
