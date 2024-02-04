@@ -108,8 +108,7 @@ Gain = -10V
  Gain = -26.11 V
 
 **Discussion Questions**
-1. Compare the performance of each amplifier circuit to its expected theoretical performance with
-regard to gain.  
+1. Compare the performance of each amplifier circuit to its expected theoretical performance with regard to gain.  
 **Response:** The gain of the first amplifier circuit was -0.955 while the theoretical performance of a non-inverting op amplifier circuit is expected to be -1.
 
 2. Comment on the limits of op-amp circuits with respect to maximum output voltage.  
