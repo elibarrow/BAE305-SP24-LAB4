@@ -7,7 +7,7 @@ Feb. 8, 2024
 
 
 
-### Lab Objective: Learn to use Op Amps, it's circuits and applications ###  
+### Lab Objective: Learn to use Op Amps, its circuits and applications ###  
 
 
 
@@ -54,13 +54,13 @@ $R_i$ = 67.9 k&Omega;
 </p>
 
 ### Circuit 2 ###
- After completing the gain analysis for circuit 1 we then moved on to analyze another circuit, which is shown below.
+ After completing the gain analysis for Circuit 1 we then moved on to analyze another circuit, which is shown below.
 
  <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%202.png width=35%>
 </p>
 
-After constructing this moderate gain op amp circuit we connected the function generator to $V_i$ and used the oscilloscope to plot $V_i$ in channel 1 and $V_o$ in channel 2.
+After constructing this moderate gain op-amp circuit we connected the function generator to $V_i$ and used the oscilloscope to plot $V_i$ in channel 1 and $V_o$ in channel 2.
 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Moderate%20Gain.JPG width=35%>
@@ -72,7 +72,7 @@ Gain = -10V
 
 ### Circuit 3 ###
 
- After calculating the gain of the moderate gain op amp circuit we moved on to built the high gain inverting op amp circuit, which is shown below.
+ After calculating the gain of the moderate gain op-amp circuit we moved on to build the high gain inverting op-amp circuit, which is shown below.
 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%203.png width=35%>
@@ -92,11 +92,11 @@ Gain = -10V
 regard to gain.  
 **Response:** The gain of the first amplifier circuit was -0.955 while the theoretical performance of a non-inverting op amplifier circuit is expected to be -1.
 
-2. Comment on the limits of op amp circuits with respect to maximum output voltage.  
-**Response:**      %%%%%%% NEEDS TO BE FINSISHED STILL %%%%%%%%%%%%%%%
+2. Comment on the limits of op-amp circuits with respect to maximum output voltage.  
+**Response:**      %%%%%%% NEEDS TO BE FINISHED STILL %%%%%%%%%%%%%%%
 
 3. Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
-negative voltage performance.  
+negative voltage performance?  
 **Response:**   %%%%%%% NEEDS TO BE FINSISHED STILL %%%%%%%%%%%%%%%
 
 ## Part 2 - Op Amps and frequency response ##
@@ -127,7 +127,7 @@ The next circuit that we built was an integrating op amp, the schematic for that
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%205.png width=35%>
 </p>
 
-Upon connecting the function generator to the circuit the O-scope showed the following input and outputs wave forms: 
+Upon connecting the function generator to the circuit the O-scope showed the following input and output waveforms: 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Integrating.JPG width=35%>
 </p>  
@@ -150,7 +150,7 @@ The next circuit that we built was a differentiating op amp, the schematic for t
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%206.png width=35%>
 </p>  
  
-Upon connecting the function generator to the circuit the O-scope showed the following input and outputs wave forms: 
+Upon connecting the function generator to the circuit the O-scope showed the following input and output waveforms: 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Differentiating.JPG width=35%>
 </p>  
@@ -164,7 +164,7 @@ Question: Change the voltage and frequency and note any differences.
 
 
 **Discussion Question: Did the integrating and differentiating circuits perform the mathematical operations expected? Explain.**  
-The integrating and differentiating circuits performed the mathematical operations expected because for the integrating circuit the inpute was a square and the output was a triangle with the integral of a square being a triangle. For the differentiating circuit, the input was a square and the output was a sloped line with the integral of a square being a slope.
+The integrating and differentiating circuits performed the mathematical operations expected because for the integrating circuit, the input was a square and the output was a triangle with the integral of a square being a triangle. For the differentiating circuit, the input was a square and the output was a sloped line with the integral of a square being a slope.
 
 
 ## Conclusion of Lab 4##
