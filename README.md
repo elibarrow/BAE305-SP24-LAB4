@@ -80,6 +80,13 @@ $R_i$ = 67.9 k&Omega;
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%202.png width=35%>
 </p>
 
+Below is how our group constructed Circuit 2 during the lab:
+
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Example%20of%20Circuit%202.jpg width=35%>
+</p>
+
+
 After constructing this moderate gain op-amp circuit we connected the function generator to $V_i$ and used the oscilloscope to plot $V_i$ in channel 1 and $V_o$ in channel 2.
 
 <p align="center">
