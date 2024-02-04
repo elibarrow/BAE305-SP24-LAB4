@@ -112,6 +112,13 @@ Gain = 1.03 V
 
 Note: Since we were running low on time in the lab we did not connect the function generator to find out an record what the frequency limit was for the 741 op amp.
 
+
+
+
+
+
+
+
 The next circuit that we built was an integrating op amp, the schematic for that circuit is shown below.
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%205.png width=35%>
@@ -121,21 +128,42 @@ Upon connecting the function generator to the circuit the O-scope showed the fol
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Integrating.JPG width=35%>
 </p>  
-We then estimated the gain for this integrating op amp circuit.  
-Gain = (0.232 V)/(0.600 V) 
-Gain = 0.386 V  
+We then estimated the gain for this integrating op amp circuit. 
 
-Question: Change the voltage and frequency and note any differences.
+Gain = (0.232 V)/(0.600 V)            
+
+Gain = 0.386 V        
+
+Question: Change the voltage and frequency and note any differences. 
+
 **Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.  
+
+
+
+
+
+
 
 The next circuit that we built was a differentiating op amp, the schematic for that circuit is shown below.
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%206.png width=35%>
 </p>  
+ 
+Upon connecting the function generator to the circuit the O-scope showed the following input and outputs wave forms: 
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Differentiating.JPG width=35%>
+</p>  
+We then estimated the gain for this integrating op amp circuit.  
+
+Gain = (7.04 V)/(7.08 V)     
+Gain = 0.994 V      
+
+Question: Change the voltage and frequency and note any differences.  
+**Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.
 
 
-
-
+**Discussion Question: Did the integrating and differentiating circuits perform the mathematical operations expected? Explain.**  
+The integrating and differentiating circuits performed the mathematical operations expected because for the integrating circuit the inpute was a square and the output was a triangle with the integral of a square being a triangle. For the differentiating circuit, the input was a square and the output was a sloped line with the integral of a square being a slope.
 
 
 
