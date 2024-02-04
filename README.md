@@ -15,6 +15,8 @@ Feb. 8, 2024
 
 For Lab 4, the following materials are required:
 
+• A Larger Bread board 
+
 • 2 Digital Multi-meter (DMM): Fluke 87
 
 • 2 DC Power Supply: Global Specialties 1403
