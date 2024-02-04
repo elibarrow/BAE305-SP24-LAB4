@@ -7,7 +7,7 @@ Feb. 8, 2024
 
 
 
-### Lab Objective: Learn to use Op Amps, its circuits and applications ###  
+### Lab Objective: Learn to use Op Amps, its circuits, and applications ###  
 
 
 
@@ -15,7 +15,7 @@ Feb. 8, 2024
 
 For Lab 4, the following materials are required:
 
-• A Larger Bread board 
+• A Larger Breadboard 
 
 • 2 Digital Multi-meter (DMM): Fluke 87
 
@@ -35,7 +35,7 @@ No code is required to complete Lab 4
 
 
 
-## Part 1 - Limits of Op Amps##
+## Part 1 - Limits of Op Amps ##
 
 ### Circuit 1 ###
 
