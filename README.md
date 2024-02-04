@@ -42,7 +42,7 @@ After taking this data we prepared a graph that shows the lab data as scattered 
 $R_f$ = 67.4 k&Omega;  
 $R_i$ = 67.9 k&Omega;  
  Equation of the Gain = (-($R_f$)/($R_i$))  
- Expected Gain = -(67.4 k&Omega;)/(67.9 k&Omega;) = -0.993 
+ Expected Gain = -(67.4 k&Omega;)/(67.9 k&Omega;) = -0.993   
 *The graph of our collected data is shown below* 
 
 <p align="center">
@@ -56,8 +56,30 @@ $R_i$ = 67.9 k&Omega;
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%202.png width=35%>
 </p>
 
-After constructing this circuit we connected the function generator to $V_i$ and used the oscilloscope to plot $V_i$ in channel 1 and $V_o$ in channel 2.
+After constructing this moderate gain op amp circuit we connected the function generator to $V_i$ and used the oscilloscope to plot $V_i$ in channel 1 and $V_o$ in channel 2.
 
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Moderate%20Gain.JPG width=35%>
+</p>
+
+ Using the O-scope we measured and calculated the gain of the circuit.  
+Gain = -(10V)/(1V)  
+Gain = -10V
+
+ After calculating the gain of the moderate gain op amp circuit we moved on to built the high gain inverting op amp circuit, which is shown below.
+
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%203.png width=35%>
+</p>
+
+ After constructing this circuit we followed similar steps to those in part 2 to use the O-scope to calculate the gain of the circuit.
+
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/High%20Gain.JPG width=35%>
+</p>
+
+ Gain = -(7.08 V)/(0.268 V)   
+ Gain = -26.11 V
 
 
 ## Part 2 - Op Amps and frequency response ##
