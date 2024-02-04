@@ -182,7 +182,8 @@ We then estimated the gain for this integrating op amp circuit.
 Gain = (0.232 V)/(0.600 V)              
 Gain = 0.386 V        
 
-Question: Change the voltage and frequency and note any differences.  
+Question: Change the voltage and frequency and note any differences.
+
 **Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.  
 
 
@@ -205,7 +206,8 @@ We then estimated the gain for this integrating op amp circuit.
 Gain = (7.04 V)/(7.08 V)     
 Gain = 0.994 V      
 
-Question: Change the voltage and frequency and note any differences.  
+Question: Change the voltage and frequency and note any differences.
+
 **Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.
 
 
