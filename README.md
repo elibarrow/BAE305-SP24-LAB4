@@ -42,7 +42,7 @@ No code is required to complete Lab 4
 We began this lab by constructing the unity gain inverting op amp circuit shown below.
 
 <p align="center">
-  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%201.png width=35%>
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%201.png width=80%>
 </p>
 
 We drove the voltage divider with the positive and negative voltage supplies from the DC Power Supply: Global Specialties 1403. We then collected $V_o$ and $V_i$ data by adjusting the potentiometer to change the input voltage. We collected 9 values that range from the negative and positive saturation points. 
