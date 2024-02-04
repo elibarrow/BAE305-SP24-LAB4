@@ -131,7 +131,7 @@ Gain = -10V
 
 4. Are the LM741 op-amps symmetric i.e. does the positive voltage performance equal the negative voltage performance?  
 
-**Response:** The LM741 op-amps are symmetric and the positive voltage performance does equal the negative voltage performance for the first circuit until below -12V or above 12V which causes the $V_i$ begins to not equal $V_o$.
+**Response:** The LM741 op-amps are symmetric and the positive voltage performance does equal the negative voltage performance for the first circuit until below -12V or above 12V which causes the $V_i$ to not equal $V_o$.
 
 ## Part 2 - Op Amps and frequency response ##
 
