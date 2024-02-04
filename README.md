@@ -47,6 +47,12 @@ We began this lab by constructing the unity gain inverting op amp circuit shown 
 
 We drove the voltage divider with the positive and negative voltage supplies from the DC Power Supply: Global Specialties 1403. We then collected $V_o$ and $V_i$ data by adjusting the potentiometer to change the input voltage. We collected 9 values that range from the negative and positive saturation points. 
 
+Below is a picture of how the voltage values were measured during the lab with a table of measured of the measured values:
+
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Setup%20of%20Circuit.jpg width=100%>
+</p>
+
 
  |Test Point|  $V_i$ (Volts)|  $V_o$ (Volts) |
 |---|---|---|
