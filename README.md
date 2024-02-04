@@ -5,6 +5,9 @@ Feb. 8, 2024
 
 ## Summary of Lab ##
 
+
+The purpose of the lab was to learn how to use operation amplifiers (Op-amps) to construct basic amplifiers and signal conditioning circuits and to discover the limitations of op-amps. To create this understanding, Lab 4, Part 1 designates creating a low, moderate, and high gain inverting op-amp circuit. This was accomplished by creating one inverting op-amp circuit and changing the resistors within the circuit. For the low gain circuit, the $V_i$ and $V_o$ were measured using the DMM and for all three circuits, the gain was calculated using the measured $R_i$ and $R_f$ from the DMM. By completing Part 1, our group gained a greater understanding of the limits of op-amp circuits. Part 2 designates creating a voltage follower op-amp circuit and is calculated using the 
+
 There were multiple goals for this lab, with the main purpose being to learn how diodes and transistors work in an electric circuit. To understand this, we created a circuit in which the transistor behaved as a switch and measured the gain associated with the transistor. In these circuits diodes, LEDs, and transistors were used and allowed us to observe their behavior as factors were changed in the circuit such as resistance, voltage, and opening/closing of switches. Throughout the lab, measurements were taken at different points in each of the three circuits that were built. Voltage was measured in different test points in the circuits with voltage drop across all the components also being measured and recorded. Lastly, the current was measured and recorded across specific components of each circuit. The gain was calculated and not measured using a DMM. Our class was unable to complete the second part of the lab which involved using a motor in a basic electric circuit.
 
 ### Lab Objective: Learn to use Op Amps, its circuits, and applications ###  
