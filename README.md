@@ -134,6 +134,12 @@ We began part 2 of the lab by building the following voltage follower circuit.
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%204.png width=35%>
 </p>
 
+Below is how our group constructed Circuit 4 during the lab:
+
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Example%20of%20Circuit%204.jpg width=75%>
+</p>
+
 By using the O-scope and the function generator we were able to collect $V_i$ and $V_o$ data with those instruments. The data presented on the O-scope is shown below. 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Voltage%20Follower.JPG width=35%>
@@ -151,6 +157,12 @@ Note: Since we were running low on time in the lab we did not connect the functi
 The next circuit that we built was an integrating op amp, the schematic for that circuit is shown below.
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%205.png width=35%>
+</p>
+
+Below is how our group constructed Circuit 5 during the lab:
+
+ <p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Example%20of%20Circuit%205.jpg width=75%>
 </p>
 
 Upon connecting the function generator to the circuit the O-scope showed the following input and output waveforms: 
