@@ -212,6 +212,7 @@ Question: Change the voltage and frequency and note any differences.
 
 
 **Discussion Question: Did the integrating and differentiating circuits perform the mathematical operations expected? Explain.**  
+
 The integrating and differentiating circuits performed the mathematical operations expected because for the integrating circuit, the input was a square and the output was a triangle with the integral of a square being a triangle. For the differentiating circuit, the input was a square and the output was a sloped line with the integral of a square being a slope.
 
 
