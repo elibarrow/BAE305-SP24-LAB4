@@ -1,5 +1,6 @@
 # Lab Report 4 - Go Big: Operational Amplifiers
 Eli Barrow & Isaac Stevens
+
 Feb. 8, 2024
 
 ## Summary of Lab ##
