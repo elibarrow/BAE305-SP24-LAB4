@@ -15,6 +15,9 @@ Feb. 8, 2024
 
 
 ## Part 1 - Limits of Op Amps##
+
+### Circuit 1 ###
+
 We began this lab by constructing the unity gain inverting op amp circuit shown below.
 
 <p align="center">
@@ -49,8 +52,8 @@ $R_i$ = 67.9 k&Omega;
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Gains%20Graph.png width=65%>
 </p>
 
-
- After completing the gain analysis for that circuit we then moved on to analyze another circuit, which is shown below.
+### Circuit 2 ###
+ After completing the gain analysis for circuit 1 we then moved on to analyze another circuit, which is shown below.
 
  <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%202.png width=35%>
@@ -65,6 +68,8 @@ After constructing this moderate gain op amp circuit we connected the function g
  Using the O-scope we measured and calculated the gain of the circuit.  
 Gain = -(10V)/(1V)  
 Gain = -10V
+
+### Circuit 3 ###
 
  After calculating the gain of the moderate gain op amp circuit we moved on to built the high gain inverting op amp circuit, which is shown below.
 
@@ -83,19 +88,20 @@ Gain = -10V
 
 **Discussion Questions**
 1. Compare the performance of each amplifier circuit to its expected theoretical performance with
-regard to gain.
- 
+regard to gain.  
 **Response:** The gain of the first amplifier circuit was -0.955 while the theoretical performance of a non-inverting op amplifier circuit is expected to be -1.
 
-3. Comment on the limits of op amp circuits with respect to maximum output voltage.  
-**Response:** 
+2. Comment on the limits of op amp circuits with respect to maximum output voltage.  
+**Response:**      %%%%%%% NEEDS TO BE FINSISHED STILL %%%%%%%%%%%%%%%
 
-5. Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
+3. Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
 negative voltage performance.  
-**Response:** 
+**Response:**   %%%%%%% NEEDS TO BE FINSISHED STILL %%%%%%%%%%%%%%%
 
 ## Part 2 - Op Amps and frequency response ##
 
+
+### Circuit 4 ###
 We began part 2 of the lab by building the following voltage follower circuit.
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%204.png width=35%>
@@ -110,14 +116,10 @@ We then estimated the gain for this voltage follower circuit.
 Gain = (0.288 V)/(0.280 V) 
 Gain = 1.03 V
 
-Note: Since we were running low on time in the lab we did not connect the function generator to find out an record what the frequency limit was for the 741 op amp.
+Note: Since we were running low on time in the lab we did not connect the function generator to find out an record what the frequency limit was for the 741 op amp.     'THIS MAY NEED TO HAVE MORE EXPLANATION BUT I AM NOT SURE' 
 
 
-
-
-
-
-
+### Circuit 5 ###
 
 The next circuit that we built was an integrating op amp, the schematic for that circuit is shown below.
 <p align="center">
@@ -130,19 +132,17 @@ Upon connecting the function generator to the circuit the O-scope showed the fol
 </p>  
 We then estimated the gain for this integrating op amp circuit. 
 
-Gain = (0.232 V)/(0.600 V)            
-
+Gain = (0.232 V)/(0.600 V)              
 Gain = 0.386 V        
 
-Question: Change the voltage and frequency and note any differences. 
-
+Question: Change the voltage and frequency and note any differences.  
 **Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.  
 
 
 
 
 
-
+### Circuit 6 ###
 
 The next circuit that we built was a differentiating op amp, the schematic for that circuit is shown below.
 <p align="center">
@@ -164,6 +164,11 @@ Question: Change the voltage and frequency and note any differences.
 
 **Discussion Question: Did the integrating and differentiating circuits perform the mathematical operations expected? Explain.**  
 The integrating and differentiating circuits performed the mathematical operations expected because for the integrating circuit the inpute was a square and the output was a triangle with the integral of a square being a triangle. For the differentiating circuit, the input was a square and the output was a sloped line with the integral of a square being a slope.
+
+
+## Conclusion of Lab 4##
+
+
 
 
 
