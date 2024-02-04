@@ -81,5 +81,70 @@ Gain = -10V
  Gain = -(7.08 V)/(0.268 V)   
  Gain = -26.11 V
 
+**Discussion Questions**
+1. Compare the performance of each amplifier circuit to its expected theoretical performance with
+regard to gain.
+ 
+**Response:** The gain of the first amplifier circuit was -0.955 while the theoretical performance of a non-inverting op amplifier circuit is expected to be -1.
+
+3. Comment on the limits of op amp circuits with respect to maximum output voltage.  
+**Response:** 
+
+5. Are the LM741 op amps symmetric i.e. does the positive voltage performance equal the
+negative voltage performance.  
+**Response:** 
 
 ## Part 2 - Op Amps and frequency response ##
+
+We began part 2 of the lab by building the following voltage follower circuit.
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%204.png width=35%>
+</p>
+
+By using the O-scope and the function generator we were able to collect $V_i$ and $V_o$ data with those instruments. The data presented on the O-scope is shown below. 
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Voltage%20Follower.JPG width=35%>
+</p>
+
+We then estimated the gain for this voltage follower circuit.  
+Gain = (0.288 V)/(0.280 V) 
+Gain = 1.03 V
+
+Note: Since we were running low on time in the lab we did not connect the function generator to find out an record what the frequency limit was for the 741 op amp.
+
+The next circuit that we built was an integrating op amp, the schematic for that circuit is shown below.
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%205.png width=35%>
+</p>
+
+Upon connecting the function generator to the circuit the O-scope showed the following input and outputs wave forms: 
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Integrating.JPG width=35%>
+</p>  
+We then estimated the gain for this integrating op amp circuit.  
+Gain = (0.232 V)/(0.600 V) 
+Gain = 0.386 V  
+
+Question: Change the voltage and frequency and note any differences.
+**Response:** When changing the voltage, the input and output increase with increased voltage. When changing the frequency, the amplitude decreases when increasing the frequency.  
+
+The next circuit that we built was a differentiating op amp, the schematic for that circuit is shown below.
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-LAB4/blob/main/Circuit%206.png width=35%>
+</p>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
