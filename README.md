@@ -162,7 +162,7 @@ We then estimated the gain for this voltage follower circuit.
 Gain = (0.288 V)/(0.280 V) 
 Gain = 1.03 V
 
-Note: Since we were running low on time in the lab we did not connect the function generator to find out and record what the frequency limit was for the 741 op amp.     'THIS MAY NEED TO HAVE MORE EXPLANATION BUT I AM NOT SURE' 
+Note: Since we were running low on time in the lab we did not connect the function generator to find out and record what the frequency limit was for the 741 op amp.     
 
 
 ### Circuit 5 ###
